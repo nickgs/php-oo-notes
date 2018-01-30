@@ -1,10 +1,10 @@
-##Exercise 3 - Expanding our markets.
+## Exercise 3 - Expanding our markets.
 
 # Introduction
 The exotic car market is proving to be a difficult market to capitalize. Our client is making a bold shift into the tractor market. With their platform growing they need to ensure their software systems enforce some stronger standards. 
 
-#Phase 2
-##Requirements
+# Phase 3
+## Requirements
 We need to define a new interface called VehicleInterface. This interface will enforce the implemention of the following methods:
 
 1. Price (setters and getters)

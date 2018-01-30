@@ -1,4 +1,4 @@
-##Autoloading
+## Autoloading
 
 Autoloading is the process of automating how our program finds the files that contain the object implementations it needs to run.
 
@@ -33,7 +33,7 @@ $o = new Order();
 
 ```
 
-##Namespaces
+## Namespaces
 
 Support for namespaces was included in PHP 5.3. Namespaces solve 2 core problems for us: 
 
