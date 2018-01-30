@@ -1,7 +1,7 @@
 ## Exercise 2 - Extending our Car class
 
 # Introduction
-Our dealership client keeps growing. They are now moving into the exotic car market. It turns out this market is much different from the Cars they have been selling up to this point. These types of customers look for differnent attributes when making a purchase descions. These attributes include number of models produced, weight, and horsepower.
+Our dealership client keeps growing. They are now moving into the exotic car market. It turns out this market is much different from the Cars they have been selling up to this point. These types of customers look for different attributes when making a purchase decision. These attributes include the number of models produced, weight, and horsepower.
 
 # Phase 2
 ## Requirements
