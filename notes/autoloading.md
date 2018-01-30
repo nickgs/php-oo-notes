@@ -64,9 +64,9 @@ use \Vehicles\Car;
 
 $c = new Car();
 ```
-##Autoloading standards
+## Autoloading standards
 
-##PSR-4
+## PSR-4
 PHP Standards Recommendations, PSR's, are recommendations put out by the  [PHP Framework Interop Group](http://www.php-fig.org/).
 
 One of these standard recommendations is the [`PSR-4`](http://www.php-fig.org/psr/psr-4/). This recommendation defines a spec for autoloading classes from file paths. 
