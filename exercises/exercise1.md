@@ -21,7 +21,7 @@ Develop a Car class which allows us to instantiate a single Car object. The car 
 
 Each property of the car should have corresponding setter and getter methods for working with a Cars properties.
 
-## Deleriables
+## Deliverables
 A single file named Car.php which will define the data structure needed. Our internal team will integrate your work into the main information system.
 
 ## Timeline

@@ -13,7 +13,7 @@ Extend the Car class to be able to support an ExoticCar. The ExoticCar should co
 
 They will also need a new method to be able to calculate the power to weight ratio for the ExoticCar. 
 
-## Deleriables
+## Deliverables
 A new class defined in the same project we defined the Car class in. The ExoticCar class should live in the same namespace as the Car.
 
 ## Timeline
